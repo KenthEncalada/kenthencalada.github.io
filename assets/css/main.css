@@ -941,6 +941,25 @@ table tfoot td {
   text-align: center;
 }
 
+/*Lista en el menu by Kenth */
+.about .pages-main{
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.about .pages-main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.about .pages-main ul li a {
+  padding: 5px 5px;
+  display: inline-block;
+  color: black;
+  text-decoration:none
+}
+
 .about .cover-author-image {
   width: 100px;
   height: 100px;
