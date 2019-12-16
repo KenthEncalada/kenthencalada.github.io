@@ -1,0 +1,103 @@
+I"F<h2 id="factores-de-calidad-del-software">Factores de calidad del software</h2>
+
+<h3 id="calidad-del-software">Calidad del Software</h3>
+
+<p>Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.</p>
+
+<p>Factores que determinan la calidad del software. Se pueden clasificar en dos grandes grupos (Pressman):</p>
+
+<ul>
+  <li>
+    <p>Medidas Directas</p>
+
+    <p>La medida o medición decimos que es directa, cuando disponemos de un instrumento de medida que nos muestra un resultado (generalmente numérico).</p>
+  </li>
+  <li>
+    <p>Medidas Indirectas</p>
+
+    <p>Cuando hablamos de sistemas informáticos no siempre es posible realizar una medida directa, porque no disponemos del instrumento adecuado que nos permita realizar esa medición</p>
+  </li>
+</ul>
+
+<h3 id="métricas-del-software">Métricas del Software</h3>
+
+<p>Son las que están relacionadas con el desarrollo del software como funcionalidad, complejidad, eficiencia.</p>
+
+<ul>
+  <li>
+    <p>Métricas técnicas</p>
+
+    <p>Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.</p>
+  </li>
+  <li>
+    <p>Métricas de calidad</p>
+
+    <p>Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud,integridad, facilidad de uso, estructuración o modularidad, pruebas, facilidad de mantenimiento, reusabilidad, cohesión del módulo, acoplamiento del módulo, etc.</p>
+  </li>
+</ul>
+
+<p>Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente.</p>
+
+<p><strong>Corrección:</strong> es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.</p>
+
+<p><strong>Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).</p>
+
+<p><strong>Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).</p>
+
+<p><strong>Facilidad de uso:</strong> Es el intento por cuantificar la sencillez de una aplicación al utilizarla.</p>
+
+<ul>
+  <li>
+    <p>Métricas de Productividad</p>
+
+    <p>Se centran en el rendimiento del proceso de la ingeniería del software. Es decir qué tan productivo va a ser el software que voy a diseñar. Se refiere a las características del software.</p>
+  </li>
+  <li>
+    <p>Métricas de costo</p>
+
+    <p>se centra en el costo total del sistema informático.</p>
+  </li>
+  <li>
+    <p>Métricas orientadas al tamaño</p>
+
+    <p>Esta nos permite conocer el tiempo en el que se terminará el software y cuántas personas se necesitan para su desarrollo, aquí medimos las variables con las que desarrollamos el software.</p>
+  </li>
+</ul>
+
+<p>Con los datos registrados durante la elaboración del proyecto podemos generar al final de dicho proyecto el siguiente conjunto de métricas:</p>
+
+<ol>
+  <li>Productividad = KLDC /Esfuerzo</li>
+  <li>Calidad = Errores / LDC</li>
+  <li>Documentación = Pp.doc./LDC</li>
+  <li>costo = $(000)/LDC</li>
+</ol>
+
+<ul>
+  <li>
+    <p>Métricas orientadas a la función o puntos de función</p>
+
+    <p>Las métricas de función se centran en la funcionalidad o utilidad del programa. Los puntos de función nos indican la medida de la productividad.</p>
+  </li>
+</ul>
+
+<h2 id="problemas-en-el-desarrollo-de-software">Problemas en el desarrollo de software</h2>
+
+<h3 id="qué-es-un-proyecto-software">¿Qué es un proyecto software?</h3>
+
+<p>Según la definición del IEEE, “software es la suma total de los programas de ordenador, procedimientos, reglas, la documentación asociada y los datos que pertenecen a un sistema de cómputo”, y “un producto de software es un producto diseñado para un usuario”.</p>
+
+<p>El software puede dividirse en dos grandes categorías:</p>
+
+<p><strong>Software de aplicaciones:</strong> se usan para proveer servicios a clientes y ejecutar negocios de forma más eficiente. El software de aplicaciones puede ser un sistema pequeño o uno grande integrado. Como ejemplos de este tipo de software estarían un sistema de cuentas, un sistema de planificación de recursos.</p>
+
+<p><strong>Software de sistemas:</strong> El software de sistemas se usa para operar y mantener un sistema informático. Permite a los usuarios usar los recursos del ordenador directamente y a través de otro software. Algunos ejemplos de este tipo de software son los sistemas operativos, compiladores y otras utilidades del sistema.</p>
+
+<h2 id="ingeniería-del-software">Ingeniería del software</h2>
+
+<p>Los proyectos software tienen características específicas que los hacen diferentes de otros proyectos de ingeniería. La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las aplicaciones de software usando tecnologías y prácticas de las ciencias de la computación, manejo de proyectos, ingeniería, el ámbito de la aplicación, y otros campos.</p>
+
+<p>El software se <strong>desarrolla</strong>, no se <strong>fabrica</strong> en el sentido clásico de la palabra. Ambas actividades se dirigen a la construcción de un “producto”, pero los métodos son diferentes. Los costes del software se encuentran en la ingeniería, esto implica que los proyectos no se pueden gestionar como si lo fueran de fabricación.</p>
+
+<p>La juventud de la ingeniería del software con respecto a otras ingenierías, la mayoría del software se construye a <strong>medida</strong>, en vez de <strong>ensamblar</strong> componentes previamente creados. Aunque ya se están dando importantes pasos en esta dirección, que facilitaría en gran medida el desarrollo de aplicaciones informáticas.</p>
+:ET

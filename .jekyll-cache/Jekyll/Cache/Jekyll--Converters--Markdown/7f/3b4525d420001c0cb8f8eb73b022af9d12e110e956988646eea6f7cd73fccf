@@ -1,0 +1,62 @@
+I"0<h2 id="concepto">Concepto</h2>
+
+<p>Un sistema de información es un conjunto de elementos interrelacionados con el propósito de prestar atención a las demandas de información de una organización, para elevar el nivel de conocimientos que permitan un mejor apoyo a la toma de decisiones y desarrollo de acciones</p>
+
+<p>Conjunto de elementos que interactúan entre sí con el fin de apoyar las actividades de una empresa o negocio. Teniendo muy en cuenta el equipo computacional necesario para que el sistema de información pueda operar y el recurso humano que interactúa con el Sistema de Información, el cual está formado por las personas que utilizan el sistema.</p>
+
+<p>Un sistema de información realiza cuatro actividades básicas: <strong>entrada</strong>, <strong>almacenamiento</strong>, <strong>procesamiento</strong> y <strong>salida de información</strong></p>
+
+<p><strong>Entrada de Información:</strong> Es el proceso mediante el cual el Sistema de Información toma los datos que requiere para procesar la información.</p>
+
+<p><strong>Almacenamiento de información:</strong> El almacenamiento es una de las actividades o capacidades más importantes que tiene una computadora, ya que a través de esta propiedad el sistema puede recordar la información guardada en la sección o proceso anterior.</p>
+
+<p><strong>Procesamiento de Información:</strong> Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida.</p>
+
+<p><strong>Procesamiento de Información:</strong> Es la capacidad del Sistema de Información para efectuar cálculos de acuerdo con una secuencia de operaciones preestablecida.</p>
+
+<h2 id="tipos-de-sistemas-de-información">Tipos de sistemas de información</h2>
+
+<p>Los sistemas de información, de manera general se pueden clasificar de tres formas según sus propósitos generales, en este sentido Peralta (2008) clasifica los sistemas de información en tres tipos fundamentales:</p>
+
+<p><strong>Sistemas transaccionales:</strong> Son Sistemas de Información que logran la automatización de procesos operativos dentro de una organización ya que su función primordial consiste en procesar transacciones tales como pagos, cobros, entradas, salidas, etc.</p>
+
+<p><strong>Sistemas de Soporte a la Toma de Decisiones, Sistemas para la Toma de Decisión de Grupo, Sistemas Expertos de Soporte a la Toma de Decisiones y Sistema de Información para Ejecutivos:</strong> Son Sistemas de Información que apoyan el proceso de toma de decisiones.</p>
+
+<p><strong>Sistemas Estratégicos:</strong> Son sistemas de información desarrollado en las organizaciones con el fin de lograr ventajas competitivas, a través del uso de la tecnología de información.</p>
+
+<p>En dependencia del enfoque (tres en total), los sistemas de información se pueden agrupar en una cierta clasificación, que brinda una idea esencial de su estructura y funcionamiento.</p>
+
+<p>De acuerdo al elemento principal de proceso de la información, los sistemas de información pueden ser de tres tipos (Manual, Mecanizadas y Bath):</p>
+
+<ul>
+  <li>Manuales:
+  cuando el hombre auxiliado por cierto equipo (máquinas de escribir, sumadoras, archivos, etc.) realiza las principales funciones de recopilación, registro, almacenamiento, cálculo y generación de información.</li>
+  <li>
+    <p>Mecanizadas:
+  Cuando cierta maquinaria realiza las principales funciones de procesamiento. Para los sistemas mecanizados que hacen uso de un computador, de acuerdo al tipo de interacción Hombre-Máquina, los sistemas de información pueden ser de dos tipos (Batch y en Línea]:</p>
+
+    <p><strong>Batch:</strong> El usuario proporciona los datos necesarios para la ejecución de un proceso y espera a que el computador termine la tarea para recibir los resultados.</p>
+
+    <p><strong>En Línea:</strong> Existe un diálogo directo entre el usuario y el computador durante la ejecución de un proceso.</p>
+  </li>
+</ul>
+
+<p>En cuanto a la organización física de los principales recursos de procesamiento de datos, los sistemas de información pueden ser de tipo:</p>
+
+<p><strong>Procesos centralizados:</strong> los recursos se encuentran ubicados en un área física determinada, por lo que su acceso se realiza en las misma instalación o desde lugares retirados, mediante líneas de comunicación de datos (telefónicas, microondas, satélite, etc.).</p>
+
+<p><strong>Proceso distribuido:</strong> los recursos se encuentran diseminados en diversos lugares de una zona territorial (ciudad, país, continente, etc.), por lo que el procesamiento se realiza en el propio lugar donde se originan los datos, existiendo la posibilidad de compartir información entre las diversas instalaciones, mediante la información de una “Red de Comunicación”.</p>
+
+<h2 id="elementos-de-un-sistema-de-información">Elementos de un sistema de información</h2>
+
+<p>Los sistemas de información, según Peña (2006), tienen 5 elementos importantes, estos son:</p>
+
+<ul>
+  <li>Financieros</li>
+  <li>Administrativos</li>
+  <li>Humanos</li>
+  <li>Materiales</li>
+  <li>Tecnológicos</li>
+</ul>
+
+:ET

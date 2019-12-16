@@ -1,0 +1,38 @@
+I"d<h2 id="factores-de-calidad-del-software">Factores de calidad del software</h2>
+
+<h3 id="calidad-del-software">Calidad del Software</h3>
+
+<p>Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.</p>
+
+<p>Factores que determinan la calidad del software. Se pueden clasificar en dos grandes grupos (Pressman):</p>
+
+<ul>
+  <li>
+    <p>Medidas Directas</p>
+
+    <p>La medida o medición decimos que es directa, cuando disponemos de un instrumento de medida que nos muestra un resultado (generalmente numérico).</p>
+  </li>
+  <li>
+    <p>Medidas Indirectas</p>
+
+    <p>Cuando hablamos de sistemas informáticos no siempre es posible realizar una medida directa, porque no disponemos del instrumento adecuado que nos permita realizar esa medición</p>
+  </li>
+</ul>
+
+<h3 id="métricas-del-software">Métricas del Software</h3>
+
+<p>Son las que están relacionadas con el desarrollo del software como funcionalidad, complejidad, eficiencia.</p>
+
+<ul>
+  <li>
+    <p>Métricas técnicas</p>
+
+    <p>Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho.</p>
+  </li>
+  <li>
+    <p>Métricas de calidad</p>
+
+    <p>Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud,integridad, facilidad de uso, estructuración o modularidad, pruebas, facilidad de mantenimiento, reusabilidad, cohesión del módulo, acoplamiento del módulo, etc.</p>
+  </li>
+</ul>
+:ET
