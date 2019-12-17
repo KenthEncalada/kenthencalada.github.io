@@ -1,15 +1,9 @@
 ---
-title: blog
 layout: main
 permalink: blog
-pagination:
-  enabled: true
-  collection: blog
 ---
 
-<!-- Title: the name of collection-->
-
-{% for blog in paginator.posts %}
+{% for blog in site.blog %}
 <article class="post">
   <!--{% if blog.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : blog.img}})" href="{{blog.url | prepend: site.baseurl}}"></a>
@@ -23,6 +17,3 @@ pagination:
   </div>
 </article>
 {% endfor %}
-
-
-{% include pagination_for_collection.html %}
